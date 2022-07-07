@@ -55,11 +55,11 @@ Topics marked by (P) are student-led presentations, done in groups of 2. By defa
 ------------------------------
 ### Grading:
 
-Grading:
 
-- 3 lead presentations:	30 (group of 2)
-- 3 critiques:		15 (group of 2)
-- Participation+feedback 20 (individual)
-- major project		35 (5 proposal, 10 in-class presentation; 20 written report; group of 2-4)
+| ------------| ---- | ---------
+|3 lead presentations |	30 |(group of 2)
+|3 critiques |		15 |(group of 2)
+| Participation+feedback| 20 |(individual)
+|major project	|	35 |(5 proposal, 10 in-class presentation; 20 written report; group of 2-4)
 
 
