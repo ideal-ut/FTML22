@@ -35,13 +35,15 @@ This is an advanced, seminar-oriented course. We shall study recently published 
 ### Schedule and Format
 
 (assuming a class of 24 students).
+
 The latest schedule is shared as a spreadsheet via Canvas.
-Overview		2 classes
-Explainability	 (P)	10-12 classes
-Fairness (P)		5-6 classes
-Assurance (P)		5-6 classes
-Guest Speakers	1-4 classes
-Project talks		3 classes (late Nov)
+
+- Overview		2 classes
+- Explainability	 (P)	10-12 classes
+- Fairness (P)		5-6 classes
+- Assurance (P)		5-6 classes
+- Guest Speakers	1-4 classes
+- Project talks		3 classes (late Nov)
 
 Topics marked by (P) are student-led presentations, done in groups of 2. By default, one class will cover 2 papers, spending 35 minutes per paper as follows: lead group 20 mins, critiquing group, 5 minutes; discussion 10 mins. On some days we may only have one presentation, specially if there is some left-over discussion to be had.
 
@@ -50,4 +52,14 @@ Topics marked by (P) are student-led presentations, done in groups of 2. By defa
 
 [Papers for Ghosh FTML'22 (as of July 22)](https://docs.google.com/spreadsheets/d/1GFJK8UMgcKAc9zWp7NsCgdqKMm6YJL8ViitbA8NpqL0/edit#gid=0)
 																										
-																				
+------------------------------
+### Grading:
+
+Grading:
+
+- 3 lead presentations:	30 (group of 2)
+- 3 critiques:		15 (group of 2)
+- Participation+feedback 20 (individual)
+- major project		35 (5 proposal, 10 in-class presentation; 20 written report; group of 2-4)
+
+
