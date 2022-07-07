@@ -1,4 +1,5 @@
-# Fall 22 - EE 381V - Fair Transparent Machine Learning: Unique 18020; Tuesday/Thursday: 12:30 - 2 ECJ 1.214
+# Fall 22 - EE 381V - Fair Transparent Machine Learning
+## Unique 18020; Tuesday/Thursday: 12:30 - 2 ECJ 1.214
 --------------------------
 
 **Course Outline**:
